@@ -1,6 +1,6 @@
 # Robot Dynamic Scheduling
 A MIP model and local search optimization method to schedule a dynamic robot: www.youtube.com/watch?v=wMU39mVTmOg 
-![topic](/documentation/doc1.png)
+![topic](/documentation/doc2.png)
 
 ## Read the complete paper and presentation
 * https://www.researchgate.net/publication/371635918_Ordonnancement_dynamique_et_controle_intelligent_d'un_robot_industriel_-_CIGI_QUALITA_MOSIM_2023_French
